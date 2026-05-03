@@ -1,11 +1,14 @@
 <div align="center">
-  <h1>Hi there, I'm John 👋</h1>
+  <h1>Hi there, I'm John Christian Leoncio 👋</h1>
   <h3>Full-Stack Web Developer</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1572B6&center=true&vCenter=true&width=500&lines=Building+Clean+Interfaces;Focusing+on+Secure+Architecture;Always+Learning+%26+Building" alt="Typing SVG" />
   <br>
   <p>
     <a href="https://linkedin.com/in/jcleoncio">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://jcpl.vercel.app">
+      <img src="https://jcpl.vercel.app/assets/jcplogo-JHlMWQ8v.png"/>
     </a>
   </p>
 </div>
