@@ -44,10 +44,5 @@ My work centers around both system integrity and user experience, combining secu
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cr6ws&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://komarev.com/ghpvc/?username=cr6ws&icon=2&color=12)](https://visitcount.itsvg.in)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
