@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 <a href="https://jcpl.vercel.app">
-      <img src="https://jcpl.vercel.app/assets/jcplogo-JHlMWQ8v.png" height="28" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
