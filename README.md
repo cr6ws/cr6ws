@@ -15,7 +15,7 @@
 
 ---
 
-### 💫 About Me
+### 🧑‍💻 About Me
 
 I’m a full-stack web developer with a strong focus on front-end development—building interfaces that are clean, intuitive, and aligned with real user needs.
 
@@ -24,7 +24,7 @@ My work centers around both system integrity and user experience, combining secu
 **🌱 Currently developing:**
 - A zero-knowledge password manager using **Tauri (Rust) + React + Vite + TailwindCSS + shadcn/ui + TypeScript**, focused on client-side encryption, secure data handling, and a streamlined user experience.
 
-**💻 I primarily work with:** React, TypeScript, PHP (Laravel), and MySQL, and I’m continuously improving how I structure scalable and maintainable systems.
+**💻 I primarily work with:** Laravel, PHP, React + Vite, TypeScript, TailwindCSS, and MySQL, and I’m continuously improving how I structure scalable and maintainable systems.
 
 **🎯 I’m particularly interested in:**
 - Front-end design and user interface systems (UX, component design, usability)
