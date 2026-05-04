@@ -25,7 +25,7 @@ My work centers around both system integrity and user experience, combining secu
 - A zero-knowledge password manager using **Tauri (Rust) + React + Vite + TailwindCSS + shadcn/ui + TypeScript**, focused on client-side encryption, secure data handling, and a streamlined user experience.
 
 ### Download Installer
-- **[ARX_0.1.0_x64-setup.exe](./src-tauri/release/ARX_0.1.0_x64-setup.exe)** - Windows installer (64-bit)
+- **[ARX_0.1.0_x64-setup.exe](https://github.com/cr6ws/ARX/raw/main/src-tauri/release/ARX_0.1.0_x64-setup.exe)** - Windows installer (64-bit)
 
 **💻 I primarily work with:** Laravel, PHP, React + Vite, TypeScript, TailwindCSS, and MySQL, and I’m continuously improving how I structure scalable and maintainable systems.
 
